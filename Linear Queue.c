@@ -2,7 +2,7 @@
 *File          :Linear Queue.c
 *Description   :Queue implementation
 *Author        :KARUN CHERY JAMES
-*Date       :6/12/21
+*Date          :6/12/21
 *******************************************/
 
 #include<stdio.h>
